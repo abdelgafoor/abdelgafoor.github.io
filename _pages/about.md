@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there! Welcome 🤗"
+title: "Welcome 🤗 I'm Abdel Gafoor!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
