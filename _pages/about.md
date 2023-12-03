@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test]{/images/sad-robot.png}{: .align-right width="300px"}
+![test](/images/sad-robot.png){: .align-right width="300px"}
 👨🏻‍💻I'm a final year PhD student at Khalifa University, UAE.
 
 🔬My research interests are control systems, machine learning, and robotics.
@@ -17,7 +17,7 @@ redirect_from:
 
 # Selected Experience
 
-##🏫 Research and Teaching Assistant
+## 🏫 Research and Teaching Assistant
 I contributed to the teaching
 
 A data-driven personal website
