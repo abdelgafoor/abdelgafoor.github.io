@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Awards"
+    url: /talks/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&user=dBJrbxEAAAAJ
+    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Portfolio"
+ #   url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /files/AbdelGafoorCV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
