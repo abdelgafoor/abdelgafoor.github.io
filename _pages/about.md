@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 ![test](/images/sad-robot.png){: .align-right width="300px"}
-👨🏻‍💻I'm a final year PhD student at Khalifa University, UAE.
+👨🏻‍💻 I'm a final year PhD student at Khalifa University, UAE.
 
-🔬My research interests are control systems, machine learning, and robotics.
+📚 I'm currently working on my Dissertation "Reinforcement Learning Generalization Through Homogeneity and Ensembles for Time-Variant UAV Systems".
 
-📚I'm currently working on my Dissertation "Reinforcement Learning Generalization Through Homogeneity and Ensembles for Time-Variant UAV Systems".
+🔬 My research interests are control systems, machine learning, and robotics. I like doing research that leads to technology that works and makes a high impact.
+
+🤖 I believe that prosperity will be for those who empower robotics. 
 
 # Selected Experience
 
