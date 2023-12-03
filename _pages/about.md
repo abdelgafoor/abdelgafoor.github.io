@@ -13,9 +13,9 @@ redirect_from:
 
 📚I'm currently working on my Dissertation "Reinforcement Learning Generalization Through Homogeneity and Ensembles for Time-Variant UAV Systems".
 
-🔬My research interests are control systems, machine learning, and robotics. I like doing research that leads to technology that works and makes a high impact.
+🔬My research interests are control systems, machine learning, and robotics. I love carrying out research that can lead to disruptive technology.
 
-🤖I believe that prosperity will be for those who empower robotics. 
+🤖I believe that prosperity will be significantly boosted for nations that empower robotics. 
 
 # Selected Experience
 
