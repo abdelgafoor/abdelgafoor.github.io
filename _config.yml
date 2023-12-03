@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdel Gafoor's Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Abdel Gafoor Haddad"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Abu Dhabi, United Arab Emirates"
   employer         : "Khalifa University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=dBJrbxEAAAAJ&hl=en"
   email            : "abdelgafoor.haddad@ku.ac.ae"
   researchgate     :
   uri              :
