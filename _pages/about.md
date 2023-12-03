@@ -15,7 +15,7 @@ redirect_from:
 
 🔬My research interests are control systems, machine learning, and robotics. I love carrying out research that can lead to disruptive technology.
 
-🤖I believe that prosperity will be significantly boosted for nations that empower robotics. Although the robot in the picture is lying (it's likely to take your job), it will create better opportunities for everyone.
+🤖I believe that prosperity will be significantly boosted for nations that empower robotics. Although the robot in the image is lying (it might take your job), it will create better opportunities for everyone.
 
 # Selected Experience
 
