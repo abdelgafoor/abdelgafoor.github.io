@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Abdel Gafoor Haddad"
   avatar           : "Photograph3.jpg"
-  bio              : "PhD Candidate in Robotics"
+  bio              : "PhD Candidate in Robotics at Khalifa University"
   location         : "Abu Dhabi, United Arab Emirates"
-  employer         : "Khalifa University"
+  employer         : #"Khalifa University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dBJrbxEAAAAJ&hl=en"
   email            : "abdelgafoor.haddad@ku.ac.ae"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/abdel-gafoor-haddad-0a8656126/"
   orcid            :
   pinterest        :
   soundcloud       :
