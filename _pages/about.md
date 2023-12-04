@@ -13,35 +13,14 @@ redirect_from:
 
 📚I'm currently working on my Dissertation "Reinforcement Learning Generalization Through Homogeneity and Ensembles for Time-Variant UAV Systems".
 
-🔬My research interests are control systems, machine learning, and robotics. I love carrying out research that can lead to disruptive technology.
+🔬My research interests are control systems, machine learning, and robotics. I love carrying out research that leads to superhuman performance and disruptive technologies.
 
 🤖I believe that prosperity will be significantly boosted for nations that empower robotics. Although the robot in the image is lying (it might take your job), it will create better opportunities for everyone.
 
 # Selected Experience
 
 ## 🏫 Research and Teaching Assistant
-I contributed to the teaching
+I contributed to various research and teaching activities at Khalifa University.
 
-A data-driven personal website
-======
-Like
-
-Getting started
-======
-Test
-
-Site-wide configuration
-------
-The
-
-Create content & metadata
-------
-For
-
-**Markdown generator**
-
-I have
-
-How to edit your site's GitHub repository
-------
-Many
+## 🕵🏻‍♂️ Research Associate
+I worked with Prof. [Ahmed Al-Durra](https://scholar.google.com/citations?hl=en&user=Rn9pQhkAAAAJ&view_op=list_works&sortby=pubdate) and Prof. [Igor Boiko](https://scholar.google.com/citations?user=2m5rDFAAAAAJ&hl=en).
