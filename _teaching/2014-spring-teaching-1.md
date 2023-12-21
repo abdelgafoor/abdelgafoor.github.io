@@ -1,6 +1,6 @@
 ---
 title: "Courses"
-  url: /files/AbdelGafoorCV.pdf
+url: /files/AbdelGafoorCV.pdf
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
